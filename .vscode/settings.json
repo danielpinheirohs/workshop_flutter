@@ -1,0 +1,16 @@
+{
+    "[dart]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+      },
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [
+        120
+      ]
+    },
+    "dart.lineLength": 120,
+    "workbench.iconTheme": "material-icon-theme",
+  }
+  

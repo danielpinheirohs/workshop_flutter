@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Projeto simples",
+        "request": "launch",
+        "type": "dart",
+        "program": "${workspaceFolder}/projeto_exemplo_aula/lib/main.dart"
+      },
+      {
+        "name": "Run Projeto com BLOC",
+        "request": "launch",
+        "type": "dart",
+        "program": "${workspaceFolder}/projeto_exemplo_aula_com_bloc/lib/main.dart"
+      }
+    ]
+  }
+  

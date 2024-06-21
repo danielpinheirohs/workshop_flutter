@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run Projeto simples",
+        "type": "shell",
+        "command": "flutter",
+        "args": [
+          "run"
+        ],
+        "options": {
+          "cwd": "${workspaceFolder}/projeto_exemplo_aula"
+        },
+        "group": "build",
+        "problemMatcher": [],
+        "detail": "Run the Projeto simples"
+      },
+      {
+        "label": "Run Projeto com BLOC",
+        "type": "shell",
+        "command": "flutter",
+        "args": [
+          "run"
+        ],
+        "options": {
+          "cwd": "${workspaceFolder}/projeto_exemplo_aula_com_bloc"
+        },
+        "group": "build",
+        "problemMatcher": [],
+        "detail": "Run the Projeto com BLOC"
+      }
+    ]
+  }
+  
